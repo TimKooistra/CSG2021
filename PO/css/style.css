@@ -1,0 +1,111 @@
+h1 {
+    color:white;
+    font-family: sans-serif;
+    font-size: 40px;
+
+}
+#container{
+    background-color: black;
+    width: 1700px;
+    height: 1500px;
+    margin:5%;
+    margin-top: 50px;
+    
+}
+#menu {
+    background-color: rgb(255, 0, 0);
+    width: 1700px;
+    height: 5%;
+    text-align: center;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+  
+body {
+    height: 100%;
+    background-color: rgb(204, 204, 206);
+    margin-right: 50px;
+}
+#sticky {
+  position: sticky;
+  top:0;
+  background-color: whitesmoke;
+  padding:0 ;
+  font-size: 40px;
+ 
+  text-align: center;
+  margin-left: 2.5%;
+  font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+  }
+  li{
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+      font-size: 40px;
+      display: inline;
+      border-bottom: 10px solid darkgrey;
+      background-color: white;
+      padding-right:20px;
+      padding-left:20px;
+
+  }
+ul{
+    padding: 0;
+    background-color:white;
+
+}
+#Knopjes{ 
+    position: sticky;
+    top: 63px;
+    margin-left: 46px;
+}
+a:hover{
+    color: red;
+    background-color: black;
+    text-decoration: black;
+    
+}
+a:active{ 
+    text-decoration:none;
+}
+a:link {
+  text-decoration: none;
+}p{
+    color:white;
+    font-family: 'Times New Roman', Times, serif
+}
+#inhoud{
+    Font-size: 20px;
+    text-align: left;
+    Padding-left: 20px;
+    padding-top: 0;
+}
+a:visited{
+    color:red;
+
+}
+a:default{
+    color:red;
+}
+#plaatje{
+   
+    padding-top: 45px;
+}
+ #Monaco{
+    padding-left: 500px;
+}
+#plaatjes{
+    padding-left: 500px;
+    padding-top: 25px;
+    height: 300px;
+}
+
+#Max{
+    padding-left: 500px;
+}
+    
+
+
+
+
+
+
