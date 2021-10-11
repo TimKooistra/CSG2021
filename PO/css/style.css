@@ -33,10 +33,12 @@ body {
   background-color: whitesmoke;
   padding:0 ;
   font-size: 40px;
+  width: 1775px;
  
   text-align: center;
-  margin-left: 2.5%;
+  margin-left: 50px;
   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  z-index: 10;
 
 
   }
@@ -77,7 +79,7 @@ a:link {
 
 }
 a:visited{
-    color: black;
+    color: blue;
 }
 p{
     color:black;
@@ -90,7 +92,7 @@ p{
     padding-top: 0;
 }
 
-}
+
 a:default{
     color:red;
 }
@@ -114,22 +116,14 @@ a:default{
 }
 
 #Drone{
-    position: absolute;
+    position:absolute;
     top: 100;
     right: 50px;
    width: 50%;
-   height: 50%;
-   z-index: 1;
-    
-}
-#HM {
-    z-index: 3;
-}
-#Types li { 
-
+   height: 50%;    
 }
 
-    
+
 
 
 
